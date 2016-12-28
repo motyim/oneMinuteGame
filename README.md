@@ -1,0 +1,2 @@
+# oneMinuteGame
+Game with javascript  
